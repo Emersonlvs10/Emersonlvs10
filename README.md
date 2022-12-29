@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um programador em formação.<br>atualmente estudando tecnologias como:<br>React-js, Node-js, Git, HTML e CSS
+Sou um programador que busca se qualificar cada vez mais, gosto de novos desafios.<br>atualmente estudando tecnologias como:<br>React-js, Node-js, Git, HTML e CSS
 
 
 ## 🌐 Socials:
